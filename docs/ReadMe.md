@@ -4,7 +4,7 @@ Practial introduction to modern neural machine translation
 
 ## Contact Info
 Sharid Loáiciga  
-`loaicigasanchez@uni-potsdam.de`  
+<loaicigasanchez@uni-potsdam.de>  
 
 ## Practial Info
 

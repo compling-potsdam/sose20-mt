@@ -37,8 +37,17 @@ Additional material distributed in the course
 
 ## Examination
 
-The following aspects are needed to pass the course:
+### Passing the course  
 
- - Hands-on assignments (PW sessions)
+The following aspects are needed to pass the course:  
+
+ - Hands-on assignments (PW sessions)  
  - Seminar presentation on special topic in MT 
+ 
+### Module grade  
+
+In order to obtain a grade for the module, the following aspectes are needed:  
+
+ - Pass the course  
+ - Project development & report (details in class)
 

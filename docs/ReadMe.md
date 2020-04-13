@@ -2,6 +2,10 @@
 
 Practial introduction to modern neural machine translation  
 
+## Contact Info
+Sharid Loáiciga  
+`loaicigasanchez@uni-potsdam.de`  
+
 ## Practial Info
 
 Wednesdays 12:00 - 14:00  

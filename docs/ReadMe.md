@@ -2,8 +2,11 @@
 
 Practial introduction to modern neural machine translation  
 
+## Practial Info
+
 Wednesdays 12:00 - 14:00  
 Runs from 22.04.2020  to 22.07.2020  
+Room 2.14.0.32  
 
 | Session  | Date  | Content  | Readings  | Due |
 |---|---|---|---|---|
@@ -22,5 +25,16 @@ Runs from 22.04.2020  to 22.07.2020
 | 13  |   | PW6: Special topics presentations  |   |   |
 | 14  |   | PW6: Special topics presentations  |   |   |
 
+## Readings material 
 
+Koehn, Philipp (2012). Statistical machine translation. Cambridge. (Including appendix chapter on neural machine translation)
+
+Additional material distributed in the course
+
+## Examination
+
+The following aspects are needed to pass the course:
+
+ - Hands-on assignments (PW sessions)
+ - Seminar presentation on special topic in MT 
 

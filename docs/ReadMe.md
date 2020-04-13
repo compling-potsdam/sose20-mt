@@ -6,7 +6,7 @@ Practial introduction to modern neural machine translation
 Sharid Loáiciga  
 <loaicigasanchez@uni-potsdam.de>  
 
-## Practial Info
+## Practical Info
 
 Wednesdays 12:00 - 14:00  
 Runs from 22.04.2020  to 22.07.2020  

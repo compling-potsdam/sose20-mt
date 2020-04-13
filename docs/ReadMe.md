@@ -1,7 +1,7 @@
 # Machine Translation
 
-Wednesdays 12:00 - 14:00 \s
-Runs from 22.04.2020  to 22.07.2020 \s
+Wednesdays 12:00 - 14:00 \s\s
+Runs from 22.04.2020  to 22.07.2020 \s\s
 
 | Session  | Date  | Content  | Readings  | Due |
 |---|---|---|---|---|

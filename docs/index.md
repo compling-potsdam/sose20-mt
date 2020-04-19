@@ -1,6 +1,6 @@
 # Machine Translation  
 
-Practial introduction to modern neural machine translation  
+Practical introduction to modern neural machine translation  
 
 ## Contact Info
 Sharid Loáiciga  
@@ -46,7 +46,7 @@ The following aspects are needed to pass the course:
  
 ### Module grade  
 
-In order to obtain a grade for the module, the following aspectes are needed:  
+In order to obtain a grade for the module, the following aspects are needed:  
 
  - Pass the course  
  - Project development & report (details in class)

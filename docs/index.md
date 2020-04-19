@@ -1,12 +1,9 @@
-# Machine Translation  
-
-Practical introduction to modern neural machine translation  
-
-## Contact Info
-Sharid Loáiciga  
-<loaicigasanchez@uni-potsdam.de>  
+A practical introduction to neural machine translation 
 
 ## Practical Info
+
+Sharid Loáiciga  
+<loaicigasanchez@uni-potsdam.de>  
 
 Wednesdays 12:00 - 14:00  
 Runs from 22.04.2020  to 22.07.2020  

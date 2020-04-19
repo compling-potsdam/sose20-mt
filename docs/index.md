@@ -23,8 +23,8 @@ Runs from 22.04.2020  to 22.07.2020
 | 10  |   |   |   |   |
 | 11  |   | Self-attention, Transformer models |   |   |
 | 12  |   |   |   |   |
-| 13  |   | PW6: Special topics presentations  |   |   |
-| 14  |   | PW6: Special topics presentations  |   |   |
+| 13  |   | PW6: Special topic presentations  |   |   |
+| 14  |   | PW6: Special topic presentations  |   |   |
 
 ## Readings material 
 

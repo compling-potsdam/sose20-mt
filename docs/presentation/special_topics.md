@@ -4,21 +4,21 @@ Read, understand and present scientific papers on current challenges in machine
 translation. You are expected to choose a topic from the list below and
 give a short presentation about it.  
 
-### Multilingual translation models  
+## Multilingual translation models  
 
-	Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation  
-	<https://www.aclweb.org/anthology/Q17-1024>  
-	A Comparison of Transformer and Recurrent Neural Networks on Multilingual Neural Machine Translation  
-	<https://aclweb.org/anthology/C18-1054>  
-	Multilingual Neural Machine Translation with Task-Specific Attention  
-	<https://aclweb.org/anthology/C18-1263>  
+Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation  
+<https://www.aclweb.org/anthology/Q17-1024>  
+A Comparison of Transformer and Recurrent Neural Networks on Multilingual Neural Machine Translation  
+<https://aclweb.org/anthology/C18-1054>  
+Multilingual Neural Machine Translation with Task-Specific Attention  
+<https://aclweb.org/anthology/C18-1263>  
 	
 ### Noisy data 
 
-	MTNT: A Testbed for Machine Translation of Noisy Text  
-	<http://www.cs.cmu.edu/~pmichel1/hosting/mtnt-emnlp.pdf>  
-	Synthetic and Natural Noise Both Break Neural Machine Translation  
-	<https://arxiv.org/abs/1711.02173>
+MTNT: A Testbed for Machine Translation of Noisy Text  
+<http://www.cs.cmu.edu/~pmichel1/hosting/mtnt-emnlp.pdf>  
+Synthetic and Natural Noise Both Break Neural Machine Translation  
+<https://arxiv.org/abs/1711.02173>
 	Toward Robust Neural Machine Translation for Noisy Input Sequences  
 	<https://pdfs.semanticscholar.org/88ed/f12127a628bed608cae0bdf3700d00824df4.pdf>
 	On the Impact of Various Types of Noise on Neural Machine Translation

@@ -39,7 +39,7 @@ Additional material distributed in the course
 The following aspects are needed to pass the course:  
 
  - Hands-on assignments (PW sessions)  
- - Seminar presentation on special topic in MT 
+ - Seminar presentation on special topic in MT, details [here](https://compling-potsdam.github.io/sose20-mt/presentation/special_topics).
  
 ### Module grade  
 

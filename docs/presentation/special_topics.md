@@ -4,7 +4,7 @@ Read, understand and present scientific papers on current challenges in machine
 translation. You are expected to choose a topic from the list below and
 give a short presentation about it.  
 
-## Multilingual translation models  
+### Multilingual translation models  
 
 Google’s Multilingual Neural Machine Translation System: Enabling Zero-Shot Translation  
 <https://www.aclweb.org/anthology/Q17-1024>  
@@ -126,6 +126,8 @@ Phrase-Based & Neural Unsupervised Machine Translation
 
 Overcoming the Curse of Sentence Length for Neural Machine Translation using Automatic Segmentation  
 <https://arxiv.org/pdf/1409.1257.pdf>  
+
+## Also worth checking out:
 
 The following list contains additional references on these and other topics:  
 <https://github.com/THUNLP-MT/MT-Reading-List>  

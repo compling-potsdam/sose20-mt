@@ -12,7 +12,7 @@ Runs from 22.04.2020  to 22.07.2020
 | Session  | Date  | Content  | Readings  | Due |
 |---|---|---|---|---|
 | 1  | 22.04.2020  | Introduction, evaluation  |   |   |
-| 2 |   | PW1: Evaluation  |   |   |
+| 2 |   | PW1: Evaluation  | PK ch.8  |   |
 | 3  |   | Data, preprocessing, alignment  |   |   |
 | 4  |   | PW2: Preprocessing  |   |   |
 | 5  |   | Neural networks, neural language models  |   |   |
@@ -23,12 +23,12 @@ Runs from 22.04.2020  to 22.07.2020
 | 10  |   |   |   |   |
 | 11  |   | Self-attention, Transformer models |   |   |
 | 12  |   |   |   |   |
-| 13  |   | PW6: Special topics presentations  |   |   |
-| 14  |   | PW6: Special topics presentations  |   |   |
+| 13  |   | PW6: Special topic presentations  |   |   |
+| 14  |   | PW6: Special topic presentations  |   |   |
 
 ## Readings material 
 
-Koehn, Philipp (2012). Statistical machine translation. Cambridge. (Including appendix chapter on neural machine translation)
+**[PK]** Koehn, Philipp (2012). Statistical machine translation. Cambridge. (Including appendix chapter on neural machine translation)
 
 Additional material distributed in the course
 
@@ -38,8 +38,9 @@ Additional material distributed in the course
 
 The following aspects are needed to pass the course:  
 
+ - Participation
  - Hands-on assignments (PW sessions)  
- - Seminar presentation on special topic in MT 
+ - Seminar presentation on special topic in MT, details [here](https://compling-potsdam.github.io/sose20-mt/presentation/special_topics).
  
 ### Module grade  
 

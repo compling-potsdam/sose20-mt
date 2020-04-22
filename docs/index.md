@@ -1,5 +1,10 @@
 A practical introduction to neural machine translation 
 
+## News:
+
+-Slides will be available [here](https://github.com/compling-potsdam/sose20-mt/tree/master/docs/materials) after each session. 
+
+
 ## Practical Info
 
 Sharid Loáiciga  

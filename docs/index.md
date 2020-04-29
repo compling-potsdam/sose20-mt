@@ -19,7 +19,7 @@ Runs from 22.04.2020  to 22.07.2020
 |---|---|---|---|---|
 | 1  | 22.04.2020  | Introduction, evaluation  |   |   |
 | 2 |   | PW1: Evaluation  | PK ch.8  |   |
-| 3  |   | Data, preprocessing, alignment  |   |   |
+| 3  |   | Data, preprocessing, alignment  | Pk ch.2  | PW1  |
 | 4  |   | PW2: Preprocessing  |   |   |
 | 5  |   | Neural networks, neural language models  |   |   |
 | 6  |   | PW3: Introduction to OpenNMT-py  |   |   |

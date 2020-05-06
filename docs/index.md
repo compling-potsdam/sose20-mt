@@ -21,7 +21,7 @@ Runs from 22.04.2020  to 22.07.2020
 | 2 | 29.04.2020  | PW1: Evaluation  | PK ch.8  |   |
 | 3  | 06.05.2020  | Data, preprocessing, alignment  | PK ch.2  | PW1  |
 | 4  | 13.05.2020  | PW2: Preprocessing  |   |   |
-| 5  | 20.05.2020  | Neural networks, neural language models  |  PK-nmt up to and including section 13.4/page 47) |   |
+| 5  | 20.05.2020  | Neural networks, neural language models  |  PK-nmt up to and including section 13.4/page 47 |   |
 | 6  |   | PW3: Introduction to OpenNMT-py  |   |   |
 | 7  |   | Sequence-to-sequence models  |   |   |
 | 8  |   | PW4: Subword NMT, beam search, OPUS data  |   |   |

@@ -19,9 +19,9 @@ Runs from 22.04.2020  to 22.07.2020
 |---|---|---|---|---|
 | 1  | 22.04.2020  | Introduction, evaluation  |   |   |
 | 2 | 29.04.2020  | PW1: Evaluation  | PK ch.8  |   |
-| 3  | 06.05.2020  | Data, preprocessing, alignment  | Pk ch.2  | PW1  |
-| 4  |   | PW2: Preprocessing  |   |   |
-| 5  |   | Neural networks, neural language models  |   |   |
+| 3  | 06.05.2020  | Data, preprocessing, alignment  | PK ch.2  | PW1  |
+| 4  | 13.05.2020  | PW2: Preprocessing  |   |   |
+| 5  | 20.05.2020  | Neural networks, neural language models  |  PK-nmt up to and including section 13.4/page 47) |   |
 | 6  |   | PW3: Introduction to OpenNMT-py  |   |   |
 | 7  |   | Sequence-to-sequence models  |   |   |
 | 8  |   | PW4: Subword NMT, beam search, OPUS data  |   |   |
@@ -34,7 +34,9 @@ Runs from 22.04.2020  to 22.07.2020
 
 ## Readings material 
 
-**[PK]** Koehn, Philipp (2012). Statistical machine translation. Cambridge. (Including appendix chapter on neural machine translation)
+**[PK]** Koehn, Philipp (2012). Statistical machine translation. Cambridge. 
+
+**[PK-nmt]** [Appendix chapter on neural machine translation](https://arxiv.org/pdf/1709.07809.pdf)
 
 Additional material distributed in the course
 

@@ -54,6 +54,8 @@ The following aspects are needed to pass the course:
 
 In order to obtain a grade for the module, the following aspects are needed:  
 
- - Pass the course  
+ - (Pass the course)
  - Project development & report (details in class)
+
+
 

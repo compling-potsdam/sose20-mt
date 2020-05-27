@@ -23,14 +23,15 @@ Runs from 22.04.2020  to 22.07.2020
 | 4  | 13.05.2020  | PW2: Preprocessing  |   |   |
 | 5  | 20.05.2020  | Neural networks, neural language models  |  PK-nmt up to and including section 13.4/page 47 | PW2  |
 | 6  | 26.05.2020  | PW3: Introduction to OpenNMT-py  |   |   |
-| 7  |   | Sequence-to-sequence models  |   | PW3  |
-| 8  |   | PW4: Subword NMT, beam search, OPUS data  |   |   |
-| 9  |   | Attention in sequence-to-sequence models  |   | PW4  |
-| 10  |   |   |   | Choose topic for presentation  |
-| 11  |   | Self-attention, Transformer models |   |   |
-| 12  |   |   |   |   |
+| 7  | 03.06.2020  | QA  |   | PW3   |
+| 8  |   | Sequence-to-sequence models  |   |  |
+| 9  |   | PW4: Subword NMT, beam search, OPUS data  |   |   |
+| 10  |   | Attention in sequence-to-sequence models  |   | PW4  |
+| 11  |   |   |   | Choose topic for presentation  |
+| 12  |   | Self-attention, Transformer models |   |   |
 | 13  |   | PW6: Special topic presentations  |   |   |
 | 14  |   | PW6: Special topic presentations  |   |   |
+
 
 ## Readings material 
 

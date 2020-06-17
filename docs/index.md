@@ -26,8 +26,8 @@ Runs from 22.04.2020  to 22.07.2020
 | 7  | 03.06.2020  | QA  |   | PW3   |
 | 8  | 10.06.2020  | Sequence-to-sequence models  | PK-nmt sections 13.5 & 13.6   |  |
 | 9  | 17.06.2020  | PW4: Subword NMT, beam search, OPUS data  | PK-nmt sections 13.5 & 13.6  |   |
-| 10  |   | Attention in sequence-to-sequence models  |   | PW4  |
-| 11  |   |   |   | Choose topic for presentation  |
+| 10  | 24.06.2020  | Attention in sequence-to-sequence models  |   | PW4  |
+| 11  | 01.07.2020  |   |   | Choose topic for presentation  |
 | 12  |   | Self-attention, Transformer models |   |   |
 | 13  |   | PW6: Special topic presentations  |   |   |
 | 14  |   | PW6: Special topic presentations  |   |   |

@@ -29,7 +29,7 @@ Runs from 22.04.2020  to 22.07.2020
 | 10  | 24.06.2020  | Attention in sequence-to-sequence models  | [JMch10](https://web.stanford.edu/~jurafsky/slp3/10.pdf)  |   |
 | 11  | 01.07.2020  | Self-attention, Transformer models | [Transformers](http://papers.nips.cc/paper/7181-attention-is-all-you-need.pdf)  | Choose topic for presentation  |
 | 12  | 08.07.2020  | QA |   |PW3  |
-| 13  | 15.07.2020  | PW6: Special topic presentations  |   |   |
+| 13  | 15.07.2020  | ---  |   |   |
 | 14  | 21.07.2020  | PW6: Special topic presentations  |   |   |
 
 
